@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppBasic</string>
+    <string name="saludo">Hola mundo</string>
+    <string name="mi_nombre">DANTE FABIAN LUQUE ZELADA</string>
+    <string name="email">danteluque706@gmail.com</string>
+    <string name="primer_valor">Ingrese primer valor</string>
+    <string name="segundo_valor">Ingrese segundo valor</string>
+</resources>
